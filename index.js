@@ -4,6 +4,6 @@ function test() {
 
 function display() {
     if (test==1){
-        document.getElementById("display").innerHTML = 찬성;
+        document.getElementById("display").innerHTML = "찬성";
     }
 }
