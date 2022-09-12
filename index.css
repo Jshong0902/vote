@@ -9,4 +9,5 @@ body{
     flex-direction: row;
 
     color:white;
+    flex-wrap: nowrap;
 }
